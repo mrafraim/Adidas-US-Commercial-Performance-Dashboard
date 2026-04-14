@@ -1,4 +1,7 @@
-# **Adidas US Commercial Performance & Profitability Dashboard**
+# **Adidas US Commercial Performance Dashboard**
+
+![dashboard](images/snapshot.jpg) 
+
 
 ## **1. Executive Summary**
 
